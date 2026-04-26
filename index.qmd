@@ -1,0 +1,11 @@
+# Tensor Hacker
+
+A notebook-first series on PyTorch, tensors, linear algebra, and ML systems.
+
+## Chapters
+
+1. [Chapter 1: Tensors, Shapes, and Views](notebooks/tensors_shapes_and_views.ipynb)
+
+## What this series is about
+
+This series explains PyTorch and ML systems from the tensor level upward: shapes, operations, linear algebra, implementation details, and practical mental models.

@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Tensor Hacker"
+  site-url: "https://karims.github.io/tensor-hacker/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: notebooks/index.qmd
+        text: Notebooks
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-copy: true
+    code-fold: false
+    smooth-scroll: true
+
+execute:
+  enabled: false

@@ -1,0 +1,3 @@
+# Notebooks
+
+- [Tensor basics](tensors_shapes_and_views.ipynb)
