@@ -10,12 +10,26 @@ website:
       - href: index.qmd
         text: Home
       - href: notebooks/index.qmd
-        text: Notebooks
+        text: Chapters
+  sidebar:
+    style: "docked"
+    contents:
+      - href: index.qmd
+        text: Home
+      - section: "Chapters"
+        contents:
+          - href: notebooks/01-tensor-basics.ipynb
+            text: "01. Tensor Basics"
+          - href: notebooks/02-matrix-multiplication.ipynb
+            text: "02. Matrix Multiplication"
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     toc: true
+    toc-depth: 3
     code-copy: true
     code-fold: false
     smooth-scroll: true

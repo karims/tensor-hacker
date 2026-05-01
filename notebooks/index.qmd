@@ -1,3 +1,4 @@
-# Notebooks
+# Chapters
 
-- [Tensor basics](tensors_shapes_and_views.ipynb)
+1. [Tensor Basics](01-tensor-basics.ipynb)
+2. [Matrix Multiplication](02-matrix-multiplication.ipynb)
