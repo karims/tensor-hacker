@@ -1,4 +1,5 @@
 # Chapters
 
 1. [Tensor Basics](01-tensor-basics.ipynb)
+2. [Tensor Basics Practice](01p-tensor-basics-practice.ipynb)
 2. [Matrix Multiplication](02-matrix-multiplication.ipynb)

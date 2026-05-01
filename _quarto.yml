@@ -20,6 +20,8 @@ website:
         contents:
           - href: notebooks/01-tensor-basics.ipynb
             text: "01. Tensor Basics"
+          - href: notebooks/01p-tensor-basics-practice.ipynb
+            text: "01P. Tensor Basics Practice"
           - href: notebooks/02-matrix-multiplication.ipynb
             text: "02. Matrix Multiplication"
 
